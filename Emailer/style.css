@@ -1,0 +1,75 @@
+body {
+  font-family: "Play", sans-serif;
+}
+
+.navbar {
+  background-color: transparent;
+  border: lightgray 2px solid;
+  margin-right: 60px;
+  display: flex;
+  justify-content: space-between;
+
+  box-sizing: border-box;
+}
+
+img {
+  height: 150px;
+  padding-top: 4px;
+}
+
+.container {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.midDiv {
+  background-color: lightgray;
+  margin-top: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-radius: 10px;
+  margin-bottom: 50px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  /* width: 1000px; */
+}
+
+.list {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.lowerDiv {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.same {
+  color: purple;
+}
+
+.low {
+  text-align: center;
+  color: purple;
+}
+
+.prescribe {
+  margin-top: 2%;
+}
+
+hr {
+  margin-top: 5%;
+  height: 4px;
+  width: 80%;
+  color: purple;
+  background-color: purple;
+}
+
+.bottomDiv {
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}

@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 279 55" width="279" height="55">
+	<title>Content</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #1e3155 } 
+	</style>
+	<g id="Content">
+		<g id="Frame_11-13">
+			<g id="Button">
+				<path id="Rounded Rectangle 1" class="shp0" d="M7 0L273 0C276.31 0 279 2.69 279 6L279 49C279 52.31 276.31 55 273 55L7 55C3.69 55 1 52.31 1 49L1 6C1 2.69 3.69 0 7 0Z" />
+			</g>
+		</g>
+	</g>
+</svg>
